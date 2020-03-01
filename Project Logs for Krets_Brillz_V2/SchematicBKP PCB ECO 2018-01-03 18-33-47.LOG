@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=A_BTN Pin=U3-40
+Removed Pin From Net: NetName=A_MIC Pin=U3-41
+Added Pin To Net: NetName=A_MIC Pin=U3-40
+Added Pin To Net: NetName=A_BTN Pin=U3-41
+Added Member To Class: ClassName=main Member=Component C5 Cap
+Added Member To Class: ClassName=main Member=Component C6 Cap

@@ -1,0 +1,125 @@
+Added Component: Designator=DEC(PRSP0016DH-B_N)
+Added Component: Designator=R1(Rowres)
+Added Component: Designator=R2(Rowres)
+Added Component: Designator=Shift1(PRSP0016DH-B_N)
+Added Component: Designator=Shift2(PRSP0016DH-B_N)
+Added Component: Designator=TRAN(LW18_N)
+Added Pin To Net: NetName=ADDR3 Pin=DEC-1
+Added Pin To Net: NetName=ADDR3 Pin=DEC-2
+Added Pin To Net: NetName=ADDR3 Pin=DEC-3
+Added Pin To Net: NetName=ADDR3 Pin=DEC-4
+Added Pin To Net: NetName=ADDR3 Pin=DEC-5
+Added Pin To Net: NetName=VCC Pin=DEC-6
+Added Pin To Net: NetName=NetDEC_7 Pin=DEC-7
+Added Pin To Net: NetName=NetDEC_8 Pin=DEC-8
+Added Pin To Net: NetName=NetDEC_9 Pin=DEC-9
+Added Pin To Net: NetName=NetDEC_10 Pin=DEC-10
+Added Pin To Net: NetName=NetDEC_11 Pin=DEC-11
+Added Pin To Net: NetName=NetDEC_12 Pin=DEC-12
+Added Pin To Net: NetName=NetDEC_13 Pin=DEC-13
+Added Pin To Net: NetName=NetDEC_14 Pin=DEC-14
+Added Pin To Net: NetName=NetDEC_15 Pin=DEC-15
+Added Pin To Net: NetName=VCC Pin=DEC-16
+Added Pin To Net: NetName=NetR1_0 Pin=R1-0
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_3 Pin=R1-3
+Added Pin To Net: NetName=NetR1_4 Pin=R1-4
+Added Pin To Net: NetName=NetR1_5 Pin=R1-5
+Added Pin To Net: NetName=NetR1_6 Pin=R1-6
+Added Pin To Net: NetName=NetR1_7 Pin=R1-7
+Added Pin To Net: NetName=C1 Pin=R1-8
+Added Pin To Net: NetName=C2 Pin=R1-9
+Added Pin To Net: NetName=C3 Pin=R1-10
+Added Pin To Net: NetName=C4 Pin=R1-11
+Added Pin To Net: NetName=C5 Pin=R1-12
+Added Pin To Net: NetName=C6 Pin=R1-13
+Added Pin To Net: NetName=C7 Pin=R1-14
+Added Pin To Net: NetName=C8 Pin=R1-15
+Added Pin To Net: NetName=NetR2_0 Pin=R2-0
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_3 Pin=R2-3
+Added Pin To Net: NetName=NetR2_4 Pin=R2-4
+Added Pin To Net: NetName=NetR2_5 Pin=R2-5
+Added Pin To Net: NetName=NetR2_6 Pin=R2-6
+Added Pin To Net: NetName=NetR2_7 Pin=R2-7
+Added Pin To Net: NetName=C9 Pin=R2-8
+Added Pin To Net: NetName=C10 Pin=R2-9
+Added Pin To Net: NetName=C11 Pin=R2-10
+Added Pin To Net: NetName=C12 Pin=R2-11
+Added Pin To Net: NetName=C13 Pin=R2-12
+Added Pin To Net: NetName=C14 Pin=R2-13
+Added Pin To Net: NetName=C15 Pin=R2-14
+Added Pin To Net: NetName=C16 Pin=R2-15
+Added Pin To Net: NetName=NetR1_1 Pin=Shift1-1
+Added Pin To Net: NetName=NetR1_2 Pin=Shift1-2
+Added Pin To Net: NetName=NetR1_3 Pin=Shift1-3
+Added Pin To Net: NetName=NetR1_4 Pin=Shift1-4
+Added Pin To Net: NetName=NetR1_5 Pin=Shift1-5
+Added Pin To Net: NetName=NetR1_6 Pin=Shift1-6
+Added Pin To Net: NetName=NetR1_7 Pin=Shift1-7
+Added Pin To Net: NetName=ADDR3 Pin=Shift1-8
+Added Pin To Net: NetName=NetShift1_9 Pin=Shift1-9
+Added Pin To Net: NetName=VCC Pin=Shift1-10
+Added Pin To Net: NetName=ADDR3 Pin=Shift1-11
+Added Pin To Net: NetName=ADDR3 Pin=Shift1-12
+Added Pin To Net: NetName=ADDR3 Pin=Shift1-13
+Added Pin To Net: NetName=ADDR3 Pin=Shift1-14
+Added Pin To Net: NetName=NetR1_0 Pin=Shift1-15
+Added Pin To Net: NetName=VCC Pin=Shift1-16
+Added Pin To Net: NetName=NetR2_1 Pin=Shift2-1
+Added Pin To Net: NetName=NetR2_2 Pin=Shift2-2
+Added Pin To Net: NetName=NetR2_3 Pin=Shift2-3
+Added Pin To Net: NetName=NetR2_4 Pin=Shift2-4
+Added Pin To Net: NetName=NetR2_5 Pin=Shift2-5
+Added Pin To Net: NetName=NetR2_6 Pin=Shift2-6
+Added Pin To Net: NetName=NetR2_7 Pin=Shift2-7
+Added Pin To Net: NetName=ADDR3 Pin=Shift2-8
+Added Pin To Net: NetName=VCC Pin=Shift2-10
+Added Pin To Net: NetName=ADDR3 Pin=Shift2-11
+Added Pin To Net: NetName=ADDR3 Pin=Shift2-12
+Added Pin To Net: NetName=ADDR3 Pin=Shift2-13
+Added Pin To Net: NetName=NetShift1_9 Pin=Shift2-14
+Added Pin To Net: NetName=NetR2_0 Pin=Shift2-15
+Added Pin To Net: NetName=VCC Pin=Shift2-16
+Added Pin To Net: NetName=NetDEC_15 Pin=TRAN-1
+Added Pin To Net: NetName=NetDEC_14 Pin=TRAN-2
+Added Pin To Net: NetName=NetDEC_13 Pin=TRAN-3
+Added Pin To Net: NetName=NetDEC_12 Pin=TRAN-4
+Added Pin To Net: NetName=NetDEC_11 Pin=TRAN-5
+Added Pin To Net: NetName=NetDEC_10 Pin=TRAN-6
+Added Pin To Net: NetName=NetDEC_9 Pin=TRAN-7
+Added Pin To Net: NetName=NetDEC_7 Pin=TRAN-8
+Added Pin To Net: NetName=NetDEC_8 Pin=TRAN-9
+Added Pin To Net: NetName=R8 Pin=TRAN-11
+Added Pin To Net: NetName=R7 Pin=TRAN-12
+Added Pin To Net: NetName=R6 Pin=TRAN-13
+Added Pin To Net: NetName=R5 Pin=TRAN-14
+Added Pin To Net: NetName=R4 Pin=TRAN-15
+Added Pin To Net: NetName=R3 Pin=TRAN-16
+Added Pin To Net: NetName=R2 Pin=TRAN-17
+Added Pin To Net: NetName=R1 Pin=TRAN-18
+Added Member To Class: ClassName=U_Matrix_Controller Member=Component DEC Decoder
+Added Member To Class: ClassName=U_Matrix_Controller Member=Component R1 Rowresistor
+Added Member To Class: ClassName=U_Matrix_Controller Member=Component R2 Rowresistor
+Added Member To Class: ClassName=U_Matrix_Controller Member=Component Shift1 HD74HC595FP
+Added Member To Class: ClassName=U_Matrix_Controller Member=Component Shift2 HD74HC595FP
+Added Member To Class: ClassName=U_Matrix_Controller Member=Component TRAN Darlington NPN
+Added Room: Name=U_Col1
+Added Room: Name=U_Col2
+Added Room: Name=U_Col3
+Added Room: Name=U_Col4
+Added Room: Name=U_Col5
+Added Room: Name=U_Col6
+Added Room: Name=U_Col7
+Added Room: Name=U_Col8
+Added Room: Name=U_Col9
+Added Room: Name=U_Col10
+Added Room: Name=U_Col11
+Added Room: Name=U_Col12
+Added Room: Name=U_Col13
+Added Room: Name=U_Col14
+Added Room: Name=U_Col15
+Added Room: Name=U_Col16
+Added Room: Name=U_Matrix_Controller

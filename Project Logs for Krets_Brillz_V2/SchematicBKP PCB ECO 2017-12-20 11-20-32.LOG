@@ -1,0 +1,6 @@
+Added Component: Designator=Reg1(LD59030DTPU33R)
+Added Pin To Net: NetName=3.3V Pin=Reg1-1
+Added Pin To Net: NetName=GND Pin=Reg1-2
+Added Pin To Net: NetName=5V Pin=Reg1-3
+Added Pin To Net: NetName=5V Pin=Reg1-4
+Added Member To Class: ClassName=U_Processor Member=Component Reg1 LD59030DTPU33R

@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=Antenna1-0
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C_DCOUPL-1
+Removed Pin From Net: NetName=3.3V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J3-9
+Removed Pin From Net: NetName=GND Pin=Osc2-2
+Removed Pin From Net: NetName=GND Pin=Osc2-3
+Removed Pin From Net: NetName=3.3V Pin=R_RST-1
+Removed Pin From Net: NetName=MOSI Pin=U3-6
+Removed Pin From Net: NetName=MISO Pin=U3-7
+Removed Pin From Net: NetName=CLK Pin=U3-8
+Removed Pin From Net: NetName=CS_MTRX Pin=U3-9
+Removed Pin From Net: NetName=CS_ACCL Pin=U3-10
+Removed Pin From Net: NetName=3.3V Pin=U3-13
+Removed Pin From Net: NetName=3.3V Pin=U3-22
+Removed Pin From Net: NetName=3.3V Pin=U3-34
+Removed Pin From Net: NetName=OE_MTRX Pin=U3-36
+Removed Pin From Net: NetName=ADDR3 Pin=U3-37
+Removed Pin From Net: NetName=ADDR2 Pin=U3-38
+Removed Pin From Net: NetName=ADDR1 Pin=U3-39
+Removed Pin From Net: NetName=3.3V Pin=U3-44
+Removed Pin From Net: NetName=GND Pin=U3-49
+Removed Member From Class: ClassName=U_Processor Member=Antenna1
+Removed Member From Class: ClassName=U_Processor Member=C7
+Removed Member From Class: ClassName=U_Processor Member=C8
+Removed Member From Class: ClassName=U_Processor Member=C9
+Removed Member From Class: ClassName=U_Processor Member=C10
+Removed Member From Class: ClassName=U_Processor Member=C_DCOUPL
+Removed Member From Class: ClassName=U_Processor Member=J3
+Removed Member From Class: ClassName=U_Processor Member=Osc1
+Removed Member From Class: ClassName=U_Processor Member=Osc2
+Removed Member From Class: ClassName=U_Processor Member=R_RST
+Change Component DesignItemId : Designator=U3 Old DesignItemId=CC1310F128RGZR New DesignItemId=MSP430G2553
+Change Component Footprint: Designator=U3 Old Footprint=CC1310RGZ New Footprint=QFN32
+Change Component Comment : Designator=U3 Old Comment=CC1310F128RGZR New Comment=MSP2553
+Added Pin To Net: NetName=IND1 Pin=Indicator-4
+Added Net: Name=IND1
+Added Pin To Net: NetName=IND2 Pin=Indicator-3
+Added Net: Name=IND2
+Added Pin To Net: NetName=IND3 Pin=Indicator-2
+Added Net: Name=IND3
+Added Pin To Net: NetName=LEFT1 Pin=R3-12
+Added Net: Name=LEFT1
+Added Pin To Net: NetName=LEFT2 Pin=R3-11
+Added Net: Name=LEFT2
+Added Pin To Net: NetName=LEFT3 Pin=R3-10
+Added Net: Name=LEFT3
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetMic1_1 Pin=Mic1-1
+Added Net: Name=NetMic1_1
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Net: Name=NetU4_5
+Added Pin To Net: NetName=NetU4_6 Pin=U4-6
+Added Net: Name=NetU4_6
+Added Pin To Net: NetName=RIGHT1 Pin=R3-15
+Added Net: Name=RIGHT1
+Added Pin To Net: NetName=RIGHT2 Pin=R3-14
+Added Net: Name=RIGHT2
+Added Pin To Net: NetName=RIGHT3 Pin=R3-13
+Added Net: Name=RIGHT3
+Change Class Name : Old Net Name=U_Processor New Net Name=U_MSP430G2553
+Added Class: Name=IND[1..3]
+Added Class: Name=LEFT[1..3]
+Added Class: Name=RIGHT[1..3]
+Added Room: Name=U_MSP430G2553

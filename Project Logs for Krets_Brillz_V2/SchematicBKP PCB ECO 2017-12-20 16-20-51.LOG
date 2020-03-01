@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=3.3V Pin=Acc1-7
+Added Pin To Net: NetName=CS_ACCL Pin=Acc1-10
+Added Pin To Net: NetName=GND Pin=Acc1-11

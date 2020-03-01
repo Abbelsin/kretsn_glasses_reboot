@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=TMCKC Pin=U3-25
+Added Net: Name=TMCKC
+Added Pin To Net: NetName=TMSC Pin=U3-24
+Added Net: Name=TMSC

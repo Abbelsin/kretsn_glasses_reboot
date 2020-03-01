@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=XIN Pin=U3-26
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=U3-25
+Added Net: Name=XOUT

@@ -1,0 +1,54 @@
+Added Component: Designator=LD1_U_Column15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD2_U_Column15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD3_U_Column15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD4_U_Column15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD5_U_Column15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD6_U_Column15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LD7_U_Column15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=LD1_U_Column15-1
+Added Pin To Net: NetName=GND Pin=LD1_U_Column15-3
+Added Pin To Net: NetName=+5 Pin=LD2_U_Column15-1
+Added Pin To Net: NetName=GND Pin=LD2_U_Column15-3
+Added Pin To Net: NetName=+5 Pin=LD3_U_Column15-1
+Added Pin To Net: NetName=GND Pin=LD3_U_Column15-3
+Added Pin To Net: NetName=+5 Pin=LD4_U_Column15-1
+Added Pin To Net: NetName=GND Pin=LD4_U_Column15-3
+Added Pin To Net: NetName=+5 Pin=LD5_U_Column15-1
+Added Pin To Net: NetName=GND Pin=LD5_U_Column15-3
+Added Pin To Net: NetName=+5 Pin=LD6_U_Column15-1
+Added Pin To Net: NetName=GND Pin=LD6_U_Column15-3
+Added Pin To Net: NetName=+5 Pin=LD7_U_Column15-1
+Added Pin To Net: NetName=NetLD1_U_Column12_4 Pin=LD7_U_Column15-2
+Added Pin To Net: NetName=GND Pin=LD7_U_Column15-3
+Added Pin To Net: NetName=NetLD1_U_Column15_2 Pin=LD1_U_Column15-2
+Added Pin To Net: NetName=NetLD1_U_Column15_2 Pin=LD2_U_Column15-4
+Added Net: Name=NetLD1_U_Column15_2
+Added Pin To Net: NetName=NetLD1_U_Column15_4 Pin=LD1_U_Column15-4
+Added Pin To Net: NetName=NetLD1_U_Column15_4 Pin=LD7_U_Column10-2
+Added Net: Name=NetLD1_U_Column15_4
+Added Pin To Net: NetName=NetLD2_U_Column15_2 Pin=LD2_U_Column15-2
+Added Pin To Net: NetName=NetLD2_U_Column15_2 Pin=LD3_U_Column15-4
+Added Net: Name=NetLD2_U_Column15_2
+Added Pin To Net: NetName=NetLD3_U_Column15_2 Pin=LD3_U_Column15-2
+Added Pin To Net: NetName=NetLD3_U_Column15_2 Pin=LD4_U_Column15-4
+Added Net: Name=NetLD3_U_Column15_2
+Added Pin To Net: NetName=NetLD4_U_Column15_2 Pin=LD4_U_Column15-2
+Added Pin To Net: NetName=NetLD4_U_Column15_2 Pin=LD5_U_Column15-4
+Added Net: Name=NetLD4_U_Column15_2
+Added Pin To Net: NetName=NetLD5_U_Column15_2 Pin=LD5_U_Column15-2
+Added Pin To Net: NetName=NetLD5_U_Column15_2 Pin=LD6_U_Column15-4
+Added Net: Name=NetLD5_U_Column15_2
+Added Pin To Net: NetName=NetLD6_U_Column15_2 Pin=LD6_U_Column15-2
+Added Pin To Net: NetName=NetLD6_U_Column15_2 Pin=LD7_U_Column15-4
+Added Net: Name=NetLD6_U_Column15_2
+Added Class: Name=U_Column15
+Added Room: Name=U_Column15
+Added Room: Name=U_serpentine2
+Added Room: Name=U_serpentine

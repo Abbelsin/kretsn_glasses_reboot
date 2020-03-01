@@ -1,0 +1,13 @@
+Added Component: Designator=INDRX(0805_A)
+Added Component: Designator=R8(6-0805_M)
+Added Pin To Net: NetName=IR_RX Pin=IR1-0
+Added Pin To Net: NetName=IR_RX Pin=R7-1
+Added Pin To Net: NetName=IR_RX Pin=R8-1
+Added Net: Name=IR_RX
+Added Pin To Net: NetName=NetINDRX_1 Pin=INDRX-1
+Added Pin To Net: NetName=NetINDRX_1 Pin=R8-2
+Added Net: Name=NetINDRX_1
+Added Pin To Net: NetName=VCC Pin=INDRX-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=U_MSP430G2553 Member=Component INDRX 150080RS75000
+Added Member To Class: ClassName=U_MSP430G2553 Member=Component R8 Res1

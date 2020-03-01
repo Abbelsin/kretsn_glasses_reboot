@@ -1,0 +1,102 @@
+Change Component Designator: OldDesignator=LED1_U_Column1 NewDesignator=LED1_RIGHT1
+Change Component Designator: OldDesignator=LED1_U_Column2 NewDesignator=LED1_RIGHT2
+Change Component Designator: OldDesignator=LED1_U_Column3 NewDesignator=LED1_RIGHT3
+Change Component Designator: OldDesignator=LED1_U_Column4 NewDesignator=LED1_RIGHT4
+Change Component Designator: OldDesignator=LED1_U_Column5 NewDesignator=LED1_RIGHT5
+Change Component Designator: OldDesignator=LED1_U_Column6 NewDesignator=LED1_RIGHT6
+Change Component Designator: OldDesignator=LED1_U_Column7 NewDesignator=LED1_RIGHT7
+Change Component Designator: OldDesignator=LED1_U_Column8 NewDesignator=LED1_RIGHT8
+Change Component Designator: OldDesignator=LED2_U_Column1 NewDesignator=LED2_RIGHT1
+Change Component Designator: OldDesignator=LED2_U_Column2 NewDesignator=LED2_RIGHT2
+Change Component Designator: OldDesignator=LED2_U_Column3 NewDesignator=LED2_RIGHT3
+Change Component Designator: OldDesignator=LED2_U_Column4 NewDesignator=LED2_RIGHT4
+Change Component Designator: OldDesignator=LED2_U_Column5 NewDesignator=LED2_RIGHT5
+Change Component Designator: OldDesignator=LED2_U_Column6 NewDesignator=LED2_RIGHT6
+Change Component Designator: OldDesignator=LED2_U_Column7 NewDesignator=LED2_RIGHT7
+Change Component Designator: OldDesignator=LED2_U_Column8 NewDesignator=LED2_RIGHT8
+Change Component Designator: OldDesignator=LED3_U_Column1 NewDesignator=LED3_RIGHT1
+Change Component Designator: OldDesignator=LED3_U_Column2 NewDesignator=LED3_RIGHT2
+Change Component Designator: OldDesignator=LED3_U_Column3 NewDesignator=LED3_RIGHT3
+Change Component Designator: OldDesignator=LED3_U_Column4 NewDesignator=LED3_RIGHT4
+Change Component Designator: OldDesignator=LED3_U_Column5 NewDesignator=LED3_RIGHT5
+Change Component Designator: OldDesignator=LED3_U_Column6 NewDesignator=LED3_RIGHT6
+Change Component Designator: OldDesignator=LED3_U_Column7 NewDesignator=LED3_RIGHT7
+Change Component Designator: OldDesignator=LED3_U_Column8 NewDesignator=LED3_RIGHT8
+Change Component Designator: OldDesignator=LED4_U_Column1 NewDesignator=LED4_RIGHT1
+Change Component Designator: OldDesignator=LED4_U_Column2 NewDesignator=LED4_RIGHT2
+Change Component Designator: OldDesignator=LED4_U_Column3 NewDesignator=LED4_RIGHT3
+Change Component Designator: OldDesignator=LED4_U_Column4 NewDesignator=LED4_RIGHT4
+Change Component Designator: OldDesignator=LED4_U_Column5 NewDesignator=LED4_RIGHT5
+Change Component Designator: OldDesignator=LED4_U_Column6 NewDesignator=LED4_RIGHT6
+Change Component Designator: OldDesignator=LED4_U_Column7 NewDesignator=LED4_RIGHT7
+Change Component Designator: OldDesignator=LED4_U_Column8 NewDesignator=LED4_RIGHT8
+Change Component Designator: OldDesignator=LED5_U_Column1 NewDesignator=LED5_RIGHT1
+Change Component Designator: OldDesignator=LED5_U_Column2 NewDesignator=LED5_RIGHT2
+Change Component Designator: OldDesignator=LED5_U_Column3 NewDesignator=LED5_RIGHT3
+Change Component Designator: OldDesignator=LED5_U_Column4 NewDesignator=LED5_RIGHT4
+Change Component Designator: OldDesignator=LED5_U_Column5 NewDesignator=LED5_RIGHT5
+Change Component Designator: OldDesignator=LED5_U_Column6 NewDesignator=LED5_RIGHT6
+Change Component Designator: OldDesignator=LED5_U_Column7 NewDesignator=LED5_RIGHT7
+Change Component Designator: OldDesignator=LED5_U_Column8 NewDesignator=LED5_RIGHT8
+Change Component Designator: OldDesignator=LED6_U_Column1 NewDesignator=LED6_RIGHT1
+Change Component Designator: OldDesignator=LED6_U_Column2 NewDesignator=LED6_RIGHT2
+Change Component Designator: OldDesignator=LED6_U_Column3 NewDesignator=LED6_RIGHT3
+Change Component Designator: OldDesignator=LED6_U_Column4 NewDesignator=LED6_RIGHT4
+Change Component Designator: OldDesignator=LED6_U_Column5 NewDesignator=LED6_RIGHT5
+Change Component Designator: OldDesignator=LED6_U_Column6 NewDesignator=LED6_RIGHT6
+Change Component Designator: OldDesignator=LED6_U_Column7 NewDesignator=LED6_RIGHT7
+Change Component Designator: OldDesignator=LED6_U_Column8 NewDesignator=LED6_RIGHT8
+Change Component Designator: OldDesignator=LED7_U_Column1 NewDesignator=LED7_RIGHT1
+Change Component Designator: OldDesignator=LED7_U_Column2 NewDesignator=LED7_RIGHT2
+Change Component Designator: OldDesignator=LED7_U_Column3 NewDesignator=LED7_RIGHT3
+Change Component Designator: OldDesignator=LED7_U_Column4 NewDesignator=LED7_RIGHT4
+Change Component Designator: OldDesignator=LED7_U_Column5 NewDesignator=LED7_RIGHT5
+Change Component Designator: OldDesignator=LED7_U_Column6 NewDesignator=LED7_RIGHT6
+Change Component Designator: OldDesignator=LED7_U_Column7 NewDesignator=LED7_RIGHT7
+Change Component Designator: OldDesignator=LED7_U_Column8 NewDesignator=LED7_RIGHT8
+Change Component Designator: OldDesignator=LED8_U_Column1 NewDesignator=LED8_RIGHT1
+Change Component Designator: OldDesignator=LED8_U_Column2 NewDesignator=LED8_RIGHT2
+Change Component Designator: OldDesignator=LED8_U_Column3 NewDesignator=LED8_RIGHT3
+Change Component Designator: OldDesignator=LED8_U_Column4 NewDesignator=LED8_RIGHT4
+Change Component Designator: OldDesignator=LED8_U_Column5 NewDesignator=LED8_RIGHT5
+Change Component Designator: OldDesignator=LED8_U_Column6 NewDesignator=LED8_RIGHT6
+Change Component Designator: OldDesignator=LED8_U_Column7 NewDesignator=LED8_RIGHT7
+Change Component Designator: OldDesignator=LED8_U_Column8 NewDesignator=LED8_RIGHT8
+Added Component: Designator=R*(Rowres)
+Change Net Name : Old Net Name=NetLED1_U_Column1_2 New Net Name=NetLED1_RIGHT1_2
+Change Net Name : Old Net Name=NetLED1_U_Column2_2 New Net Name=NetLED1_RIGHT2_2
+Change Net Name : Old Net Name=NetLED1_U_Column3_2 New Net Name=NetLED1_RIGHT3_2
+Change Net Name : Old Net Name=NetLED1_U_Column4_2 New Net Name=NetLED1_RIGHT4_2
+Change Net Name : Old Net Name=NetLED1_U_Column5_2 New Net Name=NetLED1_RIGHT5_2
+Change Net Name : Old Net Name=NetLED1_U_Column6_2 New Net Name=NetLED1_RIGHT6_2
+Change Net Name : Old Net Name=NetLED1_U_Column7_2 New Net Name=NetLED1_RIGHT7_2
+Change Net Name : Old Net Name=NetLED1_U_Column8_2 New Net Name=NetLED1_RIGHT8_2
+Change Class Name : Old Net Name=U_Column1 New Net Name=RIGHT1
+Change Class Name : Old Net Name=U_Column8 New Net Name=RIGHT4
+Added Class: Name=main
+Added Class: Name=RIGHT2
+Added Class: Name=RIGHT3
+Added Class: Name=RIGHT5
+Added Class: Name=RIGHT6
+Added Class: Name=RIGHT7
+Added Class: Name=RIGHT8
+Added Member To Class: ClassName=RIGHT4 Member=Component LED2_RIGHT4 (LED2) 150080SS75000
+Added Member To Class: ClassName=RIGHT4 Member=Component LED6_RIGHT4 (LED6) 150080SS75000
+Added Member To Class: ClassName=COL[1..8] Member=Element[1]: COL
+Added Member To Class: ClassName=COL[1..8] Member=Element[2]: COL
+Added Member To Class: ClassName=COL[1..8] Member=Element[3]: COL
+Added Member To Class: ClassName=COL[1..8] Member=Element[4]: COL
+Added Member To Class: ClassName=COL[1..8] Member=Element[5]: COL
+Added Member To Class: ClassName=COL[1..8] Member=Element[6]: COL
+Added Member To Class: ClassName=COL[1..8] Member=Element[7]: COL
+Added Member To Class: ClassName=COL[1..8] Member=Element[8]: COL
+Change Room Name: Old Name=U_Column7 New Name=RIGHT6
+Change Room Scope: Old Scope=InComponentClass('U_Column7') New Scope=InComponentClass('RIGHT6')
+Added Room: Name=main
+Added Room: Name=RIGHT1
+Added Room: Name=RIGHT2
+Added Room: Name=RIGHT3
+Added Room: Name=RIGHT4
+Added Room: Name=RIGHT5
+Added Room: Name=RIGHT7
+Added Room: Name=RIGHT8

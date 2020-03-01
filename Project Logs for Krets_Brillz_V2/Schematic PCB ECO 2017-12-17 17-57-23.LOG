@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=COL1 Pin=R2-8
+Added Pin To Net: NetName=COL2 Pin=R2-9
+Added Pin To Net: NetName=COL3 Pin=R2-10
+Added Pin To Net: NetName=COL4 Pin=R2-11
+Added Pin To Net: NetName=COL5 Pin=R2-12
+Added Pin To Net: NetName=COL6 Pin=R2-13
+Added Pin To Net: NetName=COL7 Pin=R2-14
+Change Net Name : Old Net Name=S2C8 New Net Name=COL8
+Added Member To Class: ClassName=COL[1..8] Member=Element[8]: COL

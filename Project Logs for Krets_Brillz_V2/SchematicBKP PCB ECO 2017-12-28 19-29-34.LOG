@@ -1,0 +1,3 @@
+Added Component: Designator=Antenna1(ANTENNA_HELICAL)
+Added Pin To Net: NetName=GND Pin=Antenna1-0
+Added Member To Class: ClassName=U_Processor Member=Component Antenna1 Helical antenna

@@ -1,0 +1,10 @@
+Added Component: Designator=C_Acc1(6-0805_M)
+Added Component: Designator=C_Acc2(6-0805_M)
+Added Pin To Net: NetName=GND Pin=C_Acc1-1
+Added Pin To Net: NetName=3.3V Pin=C_Acc1-2
+Added Pin To Net: NetName=GND Pin=C_Acc2-1
+Added Pin To Net: NetName=3.3V Pin=C_Acc2-2
+Added Pin To Net: NetName=MOSI Pin=Shift1-14
+Added Member To Class: ClassName=main Member=Component C_Acc1 Cap
+Added Member To Class: ClassName=main Member=Component C_Acc2 Cap
+Added Member To Class: ClassName=U_Processor Member=Component U2 CC1310F128RGZR

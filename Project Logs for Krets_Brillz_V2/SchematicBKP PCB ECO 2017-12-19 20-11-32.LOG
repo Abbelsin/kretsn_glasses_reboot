@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=ADDR3 Pin=DEC-1
+Removed Pin From Net: NetName=ADDR3 Pin=DEC-2
+Removed Pin From Net: NetName=ADDR3 Pin=DEC-3
+Removed Pin From Net: NetName=ADDR3 Pin=Shift1-11
+Removed Pin From Net: NetName=ADDR3 Pin=Shift1-12
+Removed Pin From Net: NetName=ADDR3 Pin=Shift1-13
+Removed Pin From Net: NetName=ADDR3 Pin=Shift1-14
+Removed Pin From Net: NetName=ADDR3 Pin=Shift2-11
+Removed Pin From Net: NetName=ADDR3 Pin=Shift2-12
+Removed Pin From Net: NetName=ADDR3 Pin=Shift2-13
+Change Net Name : Old Net Name=ADDR3 New Net Name=GND
+Added Net: Name=3.3V
+Added Net: Name=5V
+Added Pin To Net: NetName=ADDR1 Pin=DEC-1
+Added Net: Name=ADDR1
+Added Pin To Net: NetName=ADDR2 Pin=DEC-2
+Added Net: Name=ADDR2
+Added Pin To Net: NetName=ADDR3 Pin=DEC-3
+Added Net: Name=ADDR3
+Added Pin To Net: NetName=CLK Pin=Shift1-11
+Added Pin To Net: NetName=CLK Pin=Shift2-11
+Added Net: Name=CLK
+Added Net: Name=CS_ACCL
+Added Pin To Net: NetName=CS_MTRX Pin=Shift1-12
+Added Pin To Net: NetName=CS_MTRX Pin=Shift2-12
+Added Net: Name=CS_MTRX
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Shift1-14
+Added Net: Name=MOSI
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=OE_MTRX Pin=Shift1-13
+Added Pin To Net: NetName=OE_MTRX Pin=Shift2-13
+Added Net: Name=OE_MTRX
+Added Class: Name=main
+Added Member To Class: ClassName=ADDR[1..3] Member=Element[1]: ADDR
+Added Member To Class: ClassName=ADDR[1..3] Member=Element[2]: ADDR
+Added Member To Class: ClassName=R[1..8] Member=Element[1]: R
+Added Member To Class: ClassName=R[1..8] Member=Element[2]: R
+Added Member To Class: ClassName=R[1..8] Member=Element[3]: R
+Added Member To Class: ClassName=R[1..8] Member=Element[4]: R
+Added Member To Class: ClassName=R[1..8] Member=Element[5]: R
+Added Member To Class: ClassName=R[1..8] Member=Element[6]: R
+Added Member To Class: ClassName=R[1..8] Member=Element[7]: R
+Added Member To Class: ClassName=R[1..8] Member=Element[8]: R
+Added Room: Name=Controller
+Added Room: Name=main

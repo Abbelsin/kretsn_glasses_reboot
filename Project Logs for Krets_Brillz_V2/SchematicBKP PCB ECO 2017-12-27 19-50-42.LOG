@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=E-R1 Pin=Res_RGB-10
+Removed Pin From Net: NetName=E-R3 Pin=Res_RGB-12
+Removed Pin From Net: NetName=E-L1 Pin=Res_RGB-13
+Removed Pin From Net: NetName=E-L3 Pin=Res_RGB-15
+Added Pin To Net: NetName=E-R3 Pin=Res_RGB-10
+Added Pin To Net: NetName=E-R1 Pin=Res_RGB-12
+Added Pin To Net: NetName=E-L3 Pin=Res_RGB-13
+Added Pin To Net: NetName=E-L1 Pin=Res_RGB-15
+Added Member To Class: ClassName=Controller Member=Component R1 Rowresistor

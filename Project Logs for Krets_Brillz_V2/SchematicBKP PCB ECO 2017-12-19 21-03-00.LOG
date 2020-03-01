@@ -1,0 +1,28 @@
+Added Component: Designator=Eye_L(3528_A)
+Added Component: Designator=Eye_R(3528_A)
+Added Component: Designator=Mic1(SPW2430HR5H-B)
+Added Pin To Net: NetName=VCC Pin=Eye_L-1
+Added Pin To Net: NetName=VCC Pin=Eye_R-1
+Added Pin To Net: NetName=GND Pin=Mic1-2
+Added Pin To Net: NetName=GND Pin=Mic1-3
+Added Pin To Net: NetName=3.3V Pin=Mic1-4
+Added Pin To Net: NetName=LEFT1 Pin=Eye_L-4
+Added Net: Name=LEFT1
+Added Pin To Net: NetName=LEFT2 Pin=Eye_L-3
+Added Net: Name=LEFT2
+Added Pin To Net: NetName=LEFT3 Pin=Eye_L-2
+Added Net: Name=LEFT3
+Added Pin To Net: NetName=NetMic1_1 Pin=Mic1-1
+Added Net: Name=NetMic1_1
+Added Pin To Net: NetName=RIGHT1 Pin=Eye_R-4
+Added Net: Name=RIGHT1
+Added Pin To Net: NetName=RIGHT2 Pin=Eye_R-3
+Added Net: Name=RIGHT2
+Added Pin To Net: NetName=RIGHT3 Pin=Eye_R-2
+Added Net: Name=RIGHT3
+Added Class: Name=LEFT[1..3]
+Added Class: Name=RIGHT[1..3]
+Added Member To Class: ClassName=main Member=Component Eye_L 150141M173100
+Added Member To Class: ClassName=main Member=Component Eye_R 150141M173100
+Added Member To Class: ClassName=main Member=Component Mic1 Microphone
+Added Room: Name=Controller
