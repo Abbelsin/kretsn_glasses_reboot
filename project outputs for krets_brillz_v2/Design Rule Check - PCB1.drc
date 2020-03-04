@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : F:\KRETSN 2\krets_brillz_v2\PCB1.PcbDoc
+Date     : 2020-03-04
+Time     : 01:30:16
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.096mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room U_Column9 (Bounding Region = (88.25mm, 40.5mm, 127.25mm, 46mm) (InComponentClass('U_Column9'))
+Rule Violations :0
+
+Processing Rule : Room U_Column15 (Bounding Region = (88.25mm, 29.5mm, 127.25mm, 35mm) (InComponentClass('U_Column15'))
+Rule Violations :0
+
+Processing Rule : Room U_Column8 (Bounding Region = (88.25mm, 46mm, 127.25mm, 51.5mm) (InComponentClass('U_Column8'))
+Rule Violations :0
+
+Processing Rule : Room U_Column10 (Bounding Region = (88.25mm, 35mm, 127.25mm, 40.5mm) (InComponentClass('U_Column10'))
+Rule Violations :0
+
+Processing Rule : Room U_Column13 (Bounding Region = (88.25mm, 18.5mm, 127.25mm, 24mm) (InComponentClass('U_Column13'))
+Rule Violations :0
+
+Processing Rule : Room U_Column14 (Bounding Region = (88.25mm, 13mm, 127.25mm, 18.5mm) (InComponentClass('U_Column14'))
+Rule Violations :0
+
+Processing Rule : Room U_Column12 (Bounding Region = (88.25mm, 24mm, 127.25mm, 29.5mm) (InComponentClass('U_Column12'))
+Rule Violations :0
+
+Processing Rule : Room U_Column5 (Bounding Region = (12.75mm, 24mm, 51.75mm, 29.5mm) (InComponentClass('U_Column5'))
+Rule Violations :0
+
+Processing Rule : Room U_Column3 (Bounding Region = (12.75mm, 35mm, 51.75mm, 40.5mm) (InComponentClass('U_Column3'))
+Rule Violations :0
+
+Processing Rule : Room U_Column6 (Bounding Region = (12.75mm, 18.5mm, 51.75mm, 24mm) (InComponentClass('U_Column6'))
+Rule Violations :0
+
+Processing Rule : Room U_Column4 (Bounding Region = (12.75mm, 29.5mm, 51.75mm, 35mm) (InComponentClass('U_Column4'))
+Rule Violations :0
+
+Processing Rule : Room U_Column7 (Bounding Region = (12.75mm, 13mm, 51.75mm, 18.5mm) (InComponentClass('U_Column7'))
+Rule Violations :0
+
+Processing Rule : Room U_Column1 (Bounding Region = (12.75mm, 46mm, 51.75mm, 51.5mm) (InComponentClass('U_Column1'))
+Rule Violations :0
+
+Processing Rule : Room U_Column2 (Bounding Region = (12.75mm, 40.5mm, 51.75mm, 46mm) (InComponentClass('U_Column2'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01

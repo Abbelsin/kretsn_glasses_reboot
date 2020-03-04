@@ -1,0 +1,8 @@
+Added Component: Designator=BAT+(kabelhål USB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BAT-(kabelhål USB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BAT+ Pin=BAT+-1
+Added Pin To Net: NetName=GND Pin=BAT--1
+Added Member To Class: ClassName=U_Controller Member=Component BAT+ kabelhål
+Added Member To Class: ClassName=U_Controller Member=Component BAT- kabelhål

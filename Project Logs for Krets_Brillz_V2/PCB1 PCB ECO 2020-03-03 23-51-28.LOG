@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=+3.3 Pin=P3-2
+Removed Member From Class: ClassName=main Member=P3
+Added Component: Designator=RF(RF)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=RF-1
+Added Pin To Net: NetName=+3.3 Pin=RF-2
+Added Pin To Net: NetName=NetRF_3 Pin=RF-3
+Added Net: Name=NetRF_3
+Added Pin To Net: NetName=NetRF_4 Pin=RF-4
+Added Net: Name=NetRF_4
+Added Pin To Net: NetName=NetRF_5 Pin=RF-5
+Added Net: Name=NetRF_5
+Added Pin To Net: NetName=NetRF_6 Pin=RF-6
+Added Net: Name=NetRF_6
+Added Pin To Net: NetName=NetRF_7 Pin=RF-7
+Added Net: Name=NetRF_7
+Added Pin To Net: NetName=NetRF_8 Pin=RF-8
+Added Net: Name=NetRF_8
+Added Member To Class: ClassName=main Member=Component RF RF24L01
