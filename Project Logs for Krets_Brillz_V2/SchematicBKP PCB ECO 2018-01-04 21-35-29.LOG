@@ -1,9 +1,0 @@
-Change Net Name : Old Net Name=RGBL1 New Net Name=RIGHT1
-Change Net Name : Old Net Name=RGBL2 New Net Name=RIGHT2
-Change Net Name : Old Net Name=RGBL3 New Net Name=RIGHT3
-Change Net Name : Old Net Name=RGBR1 New Net Name=LEFT1
-Change Net Name : Old Net Name=RGBR2 New Net Name=LEFT2
-Change Net Name : Old Net Name=RGBR3 New Net Name=LEFT3
-Added Member To Class: ClassName=Controller Member=Component C3 Cap
-Added Member To Class: ClassName=Controller Member=Component C4 Cap
-Added Member To Class: ClassName=main Member=Component C5 Cap

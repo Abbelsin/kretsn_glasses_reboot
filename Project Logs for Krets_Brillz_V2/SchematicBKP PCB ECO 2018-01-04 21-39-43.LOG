@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=ADDR1 Pin=U3-9
-Removed Pin From Net: NetName=ADDR2 Pin=U3-10
-Removed Pin From Net: NetName=ADDR3 Pin=U3-11
-Added Pin To Net: NetName=ADDR1 Pin=U3-18
-Added Pin To Net: NetName=ADDR2 Pin=U3-19
-Added Pin To Net: NetName=ADDR3 Pin=U3-20
-Change Net Name : Old Net Name=RIGHT1 New Net Name=LEFT1
-Change Net Name : Old Net Name=RIGHT2 New Net Name=LEFT2
-Change Net Name : Old Net Name=RIGHT3 New Net Name=LEFT3

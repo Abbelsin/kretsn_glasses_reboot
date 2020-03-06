@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=D4 Old Footprint=SMB New Footprint=schottky smd
-Change Component Comment : Designator=D4 Old Comment=D Schottky New Comment=STPS1L40A 
-Change component parameters: Designator = "D4"; Footprint = "schottky smd"; UniqueID = "\QQBEUSYM"
-Change component parameters. Clean all parameters for all variants

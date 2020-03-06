@@ -1,9 +1,0 @@
-Added Component: Designator=SW4(Btn_Horiz)
-Added Component: Designator=SW5(Btn_Horiz)
-Added Component: Designator=SW6(Btn_Horiz)
-Added Pin To Net: NetName=BAT Pin=SW4-1
-Added Pin To Net: NetName=BAT Pin=SW5-1
-Added Pin To Net: NetName=BAT Pin=SW6-1
-Added Member To Class: ClassName=U_Controller Member=Component SW4 Horizontal button
-Added Member To Class: ClassName=U_Controller Member=Component SW5 Horizontal button
-Added Member To Class: ClassName=U_Controller Member=Component SW6 Horizontal button

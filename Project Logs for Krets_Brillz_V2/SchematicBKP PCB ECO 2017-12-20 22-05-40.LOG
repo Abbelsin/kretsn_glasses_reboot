@@ -1,9 +1,0 @@
-Added Component: Designator=C_Sht1(6-0805_M)
-Added Component: Designator=C_Sht2(6-0805_M)
-Added Pin To Net: NetName=5V Pin=C_Sht1-1
-Added Pin To Net: NetName=GND Pin=C_Sht1-2
-Added Pin To Net: NetName=5V Pin=C_Sht2-1
-Added Pin To Net: NetName=GND Pin=C_Sht2-2
-Added Member To Class: ClassName=Controller Member=Component C_Sht1 Cap
-Added Member To Class: ClassName=Controller Member=Component C_Sht2 Cap
-Added Member To Class: ClassName=U_Processor Member=Component U2 CC1310F128RGZR

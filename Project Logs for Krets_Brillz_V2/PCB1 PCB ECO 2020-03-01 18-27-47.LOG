@@ -1,7 +1,0 @@
-Added Component: Designator=LD7_U_Column2(WS2812B-Mini)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=+5 Pin=LD7_U_Column2-1
-Added Pin To Net: NetName=NetLD1_U_Column3_4 Pin=LD7_U_Column2-2
-Added Pin To Net: NetName=GND Pin=LD7_U_Column2-3
-Added Pin To Net: NetName=NetLD6_U_Column2_2 Pin=LD7_U_Column2-4
-Added Member To Class: ClassName=U_Column2 Member=Component LD7_U_Column2 (LD7) WS2812

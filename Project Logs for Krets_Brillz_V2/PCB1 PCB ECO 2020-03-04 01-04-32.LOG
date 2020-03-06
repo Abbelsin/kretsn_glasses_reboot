@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=GND Pin=7-1
-Added Pin To Net: NetName=GND Pin=8-2
-Added Pin To Net: NetName=GND Pin=J2-1
-Added Pin To Net: NetName=GND Pin=P2-1
-Added Member To Class: ClassName=U_Controller Member=Component SW3 Vertical switch

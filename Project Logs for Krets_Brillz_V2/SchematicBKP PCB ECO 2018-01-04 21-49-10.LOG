@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=A_MIC Pin=U3-3
-Removed Pin From Net: NetName=A_BTN Pin=U3-31
-Added Pin To Net: NetName=A_BTN Pin=U3-3
-Added Pin To Net: NetName=A_MIC Pin=U3-31
-Added Member To Class: ClassName=LEFT[1..3] Member=Element[1]: LEFT
-Added Member To Class: ClassName=LEFT[1..3] Member=Element[2]: LEFT
-Added Member To Class: ClassName=LEFT[1..3] Member=Element[3]: LEFT

@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=J2_1-1
-Removed Pin From Net: NetName=GND Pin=J2_1-2
-Removed Pin From Net: NetName=GND Pin=J2_1-3
-Removed Pin From Net: NetName=GND Pin=J2_1-4
-Removed Pin From Net: NetName=GND Pin=SW1_1-0
-Removed Pin From Net: NetName=GND Pin=SW1_1-1
-Removed Pin From Net: NetName=GND Pin=SW3-0
-Removed Pin From Net: NetName=GND Pin=SW3-1
-Change Component Designator: OldDesignator=SW2 NewDesignator=SW3

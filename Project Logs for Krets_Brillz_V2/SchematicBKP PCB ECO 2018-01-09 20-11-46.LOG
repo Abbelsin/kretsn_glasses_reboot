@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=INT2_ACCL Pin=U3-6
-Removed Pin From Net: NetName=INT1_ACCL Pin=U3-7
-Added Pin To Net: NetName=INT1_ACCL Pin=U3-6
-Added Pin To Net: NetName=INT2_ACCL Pin=U3-7

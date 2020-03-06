@@ -1,8 +1,0 @@
-Added Component: Designator=C1(6-0805_M)
-Added Component: Designator=C2(6-0805_M)
-Added Pin To Net: NetName=GND Pin=C1-1
-Added Pin To Net: NetName=5V Pin=C1-2
-Added Pin To Net: NetName=3.3V Pin=C2-1
-Added Pin To Net: NetName=GND Pin=C2-2
-Added Class: Name=U_Processor
-Added Room: Name=U_Processor

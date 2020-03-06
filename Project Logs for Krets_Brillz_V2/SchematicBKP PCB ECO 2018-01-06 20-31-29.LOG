@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SIGNAL Pin=SW1-0
-Removed Pin From Net: NetName=Net1_1 Pin=SW1-1
-Added Pin To Net: NetName=Net1_1 Pin=SW1-0
-Added Pin To Net: NetName=SIGNAL Pin=SW1-1

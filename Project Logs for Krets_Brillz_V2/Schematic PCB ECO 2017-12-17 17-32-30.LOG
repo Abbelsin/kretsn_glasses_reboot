@@ -1,9 +1,0 @@
-Change Net Name : Old Net Name=S2_BUS9 New Net Name=COL1
-Change Net Name : Old Net Name=S2_BUS10 New Net Name=COL2
-Change Net Name : Old Net Name=S2_BUS11 New Net Name=COL3
-Change Net Name : Old Net Name=S2_BUS12 New Net Name=COL4
-Change Net Name : Old Net Name=S2_BUS13 New Net Name=COL5
-Change Net Name : Old Net Name=S2_BUS14 New Net Name=COL6
-Change Net Name : Old Net Name=S2_BUS15 New Net Name=COL7
-Change Net Name : Old Net Name=S2_BUS16 New Net Name=COL8
-Added Class: Name=COL[1..8]
