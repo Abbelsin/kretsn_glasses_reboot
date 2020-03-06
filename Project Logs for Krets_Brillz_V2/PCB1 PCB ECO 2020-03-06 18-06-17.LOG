@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=Indicator Pin=U1-17
+Added Component: Designator=P2(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=+3.3 Pin=P2-3
+Added Pin To Net: NetName=NetRF_3 Pin=U1-11
+Added Pin To Net: NetName=NetRF_4 Pin=U1-12
+Added Pin To Net: NetName=Indicator Pin=U1-14
+Added Pin To Net: NetName=NetRF_6 Pin=U1-15
+Added Pin To Net: NetName=NetRF_7 Pin=U1-16
+Added Pin To Net: NetName=NetRF_5 Pin=U1-17
+Added Pin To Net: NetName=A1 Pin=P2-7
+Added Pin To Net: NetName=A1 Pin=U1-24
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=P2-8
+Added Pin To Net: NetName=A2 Pin=U1-25
+Added Net: Name=A2
+Added Pin To Net: NetName=D2 Pin=P2-4
+Added Pin To Net: NetName=D2 Pin=U1-32
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=P2-5
+Added Pin To Net: NetName=D3 Pin=U1-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=P2-6
+Added Pin To Net: NetName=D4 Pin=U1-2
+Added Net: Name=D4
+Added Pin To Net: NetName=NetLabel13 Pin=U1-13
+Added Net: Name=NetLabel13
+Added Member To Class: ClassName=main Member=Component P2 Header 8
